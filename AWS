@@ -1,0 +1,53 @@
+Domanda 1 
+Quale servizio AWS è più adatto per creare un’architettura serveless altamente scalabile?
+Amazon EC2
+AWS Lambda ✅
+Amazon RDS
+Amazon ECS
+
+Domanda 2
+Quale servizio AWS può essere utilizzato per centralizzare la gestione degli accessi e delle autorizzazioni in un ambiente multi-account?
+AWS IAM
+AWS Organizations
+AWS Single Sign-On (SSO) ✅
+AWS CloudTrail
+
+Domanda 3
+Quale strategia di disaster recovery prevede il ripristino più rapido ma anche il costo più elevato?
+Backup e ripristino 
+Pilot Light
+Warm Standby
+Multi-Site Active-Active ✅
+
+Domanda 4
+Quale servizio AWS è più adatto per archiviare dati raramente accessibili a un costo molto basso?
+Amazon S3 Standard
+Amazon S3 Glacier ✅
+Amazon EFS
+Amazon RDS
+
+Domanda 5:
+Quale servizio AWS può essere utilizzato per monitorare e ottimizzare i costi del cloud?
+A) AWS Cost Explorer.
+B) AWS Trusted Advisor.
+C) AWS Budgets.
+D) Tutte le precedenti. ✅
+
+Domanda 6:
+Quale servizio AWS è più adatto per creare una rete privata virtuale (VPC) con connettività ibrida verso il data center on-premise?
+A) AWS Direct Connect. ✅
+B) Amazon VPC.
+
+Domanda 7:
+Quale servizio AWS è più adatto per eseguire analisi in tempo reale su grandi volumi di dati streaming?
+A) Amazon Redshift.
+B) Amazon Kinesis Data Analytics. ✅
+C) Amazon Athena.
+D) Amazon QuickSight.
+
+Domanda 8:
+Quale servizio AWS è più adatto per garantire la sicurezza e la conformità di un'applicazione web esposta a Internet?
+A) AWS WAF (Web Application Firewall). ✅
+B) AWS Shield.
+C) AWS IAM.
+D) AWS Config.
