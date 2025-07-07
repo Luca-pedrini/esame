@@ -1,0 +1,47 @@
+Qual è il significato dell’acronimo LINUX?
+Libera Installazione Non User eXperciance 
+Linux Is Not Unix ✅ 
+Lega Inter	nazionale Non Usiamo eXchange
+Linux Is Not Usable Xall
+
+In ambiente Linux con quale comando si creano le coppie di chiavi pubblica e privata per il protocollo SSH?
+dumpkeys
+sshd 
+ssh-keygen ✅ 
+ssh-copy-id
+
+Quale dei seguenti  è un server web opensource?
+ISS 
+Apache ✅ 
+OpensshServer 
+BIND
+
+ Che cosa contiene la directory /usr/sbin in ambiente UNIX/LINUX?
+Le directory di spool  delle stampanti
+i file del kernel compilato e relativa immagine initrd necessari al boot 
+gli eseguibili solitamente utilizzati dal solo utente root ✅ 
+le configurazioni di tutti i programmi installati
+
+In ambito Linux cosa è l’area di SWAP?
+È la memoria RAM fisica a disposizione 
+Lo spazio di swap si riferisce alla parte della memoria virtuale riservata come posizione di archiviazione temporanea. Lo spazio di swap viene utilizzato quando la RAM disponibile non è in grado di soddisfare i requisiti di memoria del sistema. ✅ 
+È l’area in cui si effettuano  backup persistenti
+È l’area in cui si salvano il kernel compilato e relativa immagine initrd necessari al boot del S.O.
+
+In ambiente Linux Quale comando devi usare per impostare il permesso "rwxr-x---" su un file chiamato script.sh?
+chown 750 script.sh 
+chmod 750 script.sh ✅ 
+umask 750 script.sh 
+chgrp 750 script.sh
+
+In ambito  Linux Quale dei seguenti  è un server database opensource?
+Apache 
+Mariadb ✅ 
+Nginx 
+Microsoft Sql Server
+
+ In una distribuzione Linux/Debian o sue derivate, quale formato hanno i pacchetti precompilati?
+apt 
+rpm 
+deb ✅ 
+tgz
